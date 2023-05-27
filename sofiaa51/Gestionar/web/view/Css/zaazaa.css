@@ -1,0 +1,15 @@
+
+#container{
+    font-family: serif;
+    color: green;
+    position: relative;
+    width: 50%;
+    height: 50%;
+    justify-content: center;
+}
+.col-lg-6{
+    width: 90%;
+    height: 20%;
+    color: green;
+    
+}
